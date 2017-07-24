@@ -812,7 +812,7 @@ declare namespace PIXI {
         /**
          * The background color of the rendered area (shown if not transparent) [default=0x000000]
          */
-        backgroundColor?: number;
+        backgroundColor?: string;
 
         /**
          * This sets if the renderer will clear the canvas or not before the new render pass. [default=true]
