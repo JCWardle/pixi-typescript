@@ -44,7 +44,7 @@ declare namespace PIXI {
             forceFXAA: boolean,
             autoResize: boolean,
             transparent: boolean,
-            backgroundColor: number,
+            backgroundColor: string,
             clearBeforeRender: boolean,
             preserveDrawingBuffer: boolean,
             roundPixels: boolean
